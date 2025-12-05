@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 760px;
+    background: #fff;
+    margin: 40px auto;
+    padding: 40px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+header h1 {
+    font-size: 32px;
+    margin: 0;
+}
+
+.role {
+    font-size: 18px;
+    margin-top: 6px;
+}
+
+.contact {
+    font-size: 14px;
+    margin-top: 8px;
+    color: #555;
+}
+
+.section {
+    margin-top: 32px;
+}
+
+.section h2 {
+    font-size: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 6px;
+    margin-bottom: 16px;
+}
+
+.item {
+    margin-bottom: 24px;
+}
+
+.item h3 {
+    font-size: 16px;
+    margin: 0 0 4px 0;
+}
+
+.meta {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.skills li {
+    display: inline-block;
+    margin-right: 12px;
+    margin-bottom: 6px;
+    background: #eee;
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-size: 14px;
+}
